@@ -12,7 +12,7 @@
 <img align="left" alt="Java" width="30" hspace="5" src="https://www.conocimedutech.com/wp-content/uploads/2019/05/java-14-logo-png-transparent.png"/>
 <img align="left" alt="Selenide" width="70px" hspace="5" src="https://ru.selenide.org/images/selenide-logo-big.png" />
 <img align="left" alt="RestAssured" width="40px" hspace="5" src="https://images.ctfassets.net/ghnd6t1cihic/2m29GyYwpEQmm76jHLU2Gp/00856bd27eb61601c9935f6a3b746970/19369327" />
-<img align="left" alt="JUnit5" width="60px" hspace="5" vspace="10" src="https://junit.org/junit4/images/junit5-banner.png" />
+<img align="left" alt="JUnit5" width="50px" hspace="5" vspace="12" src="https://junit.org/junit4/images/junit5-banner.png" />
 <img align="left" alt="intellijIdea" width="40px" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Gradle" width="40px" hspace="5" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" />
 <img align="left" alt="GitHub" width="40px" hspace="5" src="https://melabresearch.com/images/github_PNG20.png" />
