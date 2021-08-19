@@ -1,4 +1,5 @@
 ## HI!
+
 ___
 
 ```java
@@ -10,11 +11,15 @@ public class HelloWorld {
 ```
 
 ___
+
+### Project examples
+
+* https://github.com/Kaspok/QA_task_12
+
+___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaspok&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
-## Stack
+### Stack
 
 Java | Selenide | Rest-Assured | JUnit5 | IntelliJ IDEA | Gradle | GitHub | Jenkins | Selenoid | Allure
 |:------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
