@@ -14,7 +14,17 @@ ___
 
 ### Project examples
 
+Selenide tests (Jenkins + Allure + Selenoid)
+
 * https://github.com/Kaspok/QA_task_12
+
+Api (Rest-Assured) tests
+
+* https://github.com/Kaspok/QA_task_16
+
+Selenide + Rest-Assured tests
+
+* https://github.com/Kaspok/neoflex-tests
 
 ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaspok&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
